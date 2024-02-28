@@ -514,7 +514,7 @@ span {
         flex-direction: column;
         background: #000;
         padding: 20px 0;
-        text-align: left;
+        text-align: center;
         transition: all .50s ease;
     }
 
@@ -586,7 +586,7 @@ span {
     }
 
     .heroin-image{
-        width: 100%;
+        width: 110%;
         height: auto;
     }
 
